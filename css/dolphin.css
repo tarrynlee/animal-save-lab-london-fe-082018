@@ -18,7 +18,14 @@ html {
   right: 0;
 }
 
-@media (max-width: 642px) and (min-width: 1090px){}
+@media (max-width: 642px) and (min-width: 1090px){
+  
+  #dolphin {
+  position: absolute;
+  top: 400px;
+  right: 0;
+  
+}
 
 /* Write your solution here */
 
