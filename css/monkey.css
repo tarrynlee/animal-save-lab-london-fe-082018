@@ -1,6 +1,8 @@
 html {
   background: url(../images/spice-girls.jpg) no-repeat top left;
 }
+/* media query */
+@media only screen and (max-width: 1170px and min-width: 406px) {
 
 #monkey {
   position: absolute;
@@ -10,3 +12,4 @@ html {
 
 /* Write your solution here */
 
+}
