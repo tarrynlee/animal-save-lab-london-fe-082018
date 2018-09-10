@@ -2,7 +2,7 @@ html {
   background: url(../images/spice-girls.jpg) no-repeat top left;
 }
 /* media query */
-@mediA (max-width: 1170px) and (min-width: 406px) {
+@media (max-width: 1170px) and (min-width: 406px) {
 
 #monkey {
   top: -550px;
