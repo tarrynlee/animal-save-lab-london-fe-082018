@@ -10,6 +10,6 @@ html {
 /* media query */  
 @media (max-width: 1170px) and (min-width: 406px){
 #monkey {
-  top: -100;
+  top: -100px;
 }
 }
