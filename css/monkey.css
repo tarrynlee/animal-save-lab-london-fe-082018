@@ -1,15 +1,13 @@
 html {
   background: url(../images/spice-girls.jpg) no-repeat top left;
 }
-/* media query */
+
  {
 
-#monkey {
+#monkey 
   position: absolute;
   top: 550px;
   right: 120px;
-  
-}
-@media (max-width: 1170px) and (min-width: 406px)
 
-}}
+/* media query */  
+@media (max-width: 1170px) and (min-width: 406px)}
